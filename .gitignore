@@ -5,5 +5,6 @@
 .pub/
 
 build/
+url = https://github.com/sherpa-takashu124/stream_counter_increment.git
 
 .flutter-plugins
